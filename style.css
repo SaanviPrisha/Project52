@@ -1,0 +1,123 @@
+.heading{  
+    background-color: lightpink;
+    border:solid;
+    padding: 15px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.grid {
+    margin: 25px;
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    text-align: left;
+    flex-wrap: wrap;
+    font-size: small;
+    border-radius: 20px;
+    padding: 30px;
+  }
+  .grid img {
+    border: 2px solid black;
+    border-radius: 50px;
+    position: relative;
+  }
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .piegons {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .puppy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .frog {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .camel:hover{
+    transform: scale(1.2); 
+  }
+  .chameleon:hover{
+    transform: scale(1.2); 
+  }
+  .cicada:hover{
+    transform: scale(1.2); 
+  }
+  .puppy:hover{
+    transform: scale(1.2); 
+  }
+  .frog:hover{
+    transform: scale(1.2); 
+  }
+  .panda:hover{
+    transform: scale(1.2); 
+  }
+  .teddy:hover{
+    transform: scale(1.2); 
+  }
+  .piegons:hover{
+    transform: scale(1.2); 
+  }
+  .img{
+    background-color: rgba(250, 10, 10, 0.349);
+  }
